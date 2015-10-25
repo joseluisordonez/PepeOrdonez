@@ -245,7 +245,7 @@
                                 </div>
                            </div>
                             <div class="caption">
-                                <p>Cerveza</p>
+                                <p>Beber Cerveza</p>
                             </div>
                         </div>
                     </div>
@@ -405,7 +405,7 @@
 
             <div id="lightbox" class="row">
 
-                <div class="col-sm-6 col-md-4 col-lg-4">
+                <div class="col-sm-6 col-md-4">
                     <div class="portfolio-item">
                         <div class="hover-bg">
                             <a href="http://funeralesmodelo.com/">
@@ -421,7 +421,7 @@
                     </div>
                 </div>
 
-                <div class="col-sm-6 col-md-4 col-lg-4">
+                <div class="col-sm-6 col-md-4 ">
                     <div class="portfolio-item">
                         <div class="hover-bg">
                             <a href="http://gpe.mx/">
@@ -437,7 +437,7 @@
                     </div>
                 </div>
 
-                <div class="col-sm-6 col-md-4 col-lg-4">
+                <div class="col-sm-6 col-md-4 ">
                     <div class="portfolio-item">
                         <div class="hover-bg">
                             <a href="http://www.maquinariaysemillasseitec.com/">
@@ -453,7 +453,7 @@
                     </div>
                 </div>
 
-                <div class="col-sm-6 col-md-4 col-lg-4">
+                <div class="col-sm-6 col-md-4 ">
                     <div class="portfolio-item">
                         <div class="hover-bg">
                             <a href="http://www.maquinariarmk.com/">
@@ -469,7 +469,7 @@
                     </div>
                 </div>
 
-                <div class="col-sm-6 col-md-4 col-lg-4">
+                <div class="col-sm-6 col-md-4">
                     <div class="portfolio-item">
                         <div class="hover-bg">
                             
@@ -485,7 +485,7 @@
                     </div>
                 </div>
 
-                <div class="col-sm-6 col-md-4 col-lg-4">
+                <div class="col-sm-6 col-md-4">
                     <div class="portfolio-item">
                         <div class="hover-bg">
                             <a href="http://www.vallepestanas.com/">
@@ -511,7 +511,7 @@
         <div class="overlay">
             <div class="container">
                 <div class="section-title center">
-                    <h2 class="wow animated bounceInDown"><strong>Mis</strong> Experiencia</h2>
+                    <h2 class="wow animated bounceInDown"><strong>Mi</strong> Experiencia</h2>
                     <div class="line">
                         <hr>
                     </div>
