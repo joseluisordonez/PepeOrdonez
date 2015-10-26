@@ -1,3 +1,6 @@
+var mq=window.matchMedia("(min-width:992px)");
+if (mq.matches){
+
 (function() {
   var MutationObserver, Util, WeakMap, getComputedStyle, getComputedStyleRX,
     bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; },
@@ -511,3 +514,4 @@
   })();
 
 }).call(this);
+}
